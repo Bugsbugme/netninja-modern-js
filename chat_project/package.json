@@ -1,0 +1,17 @@
+{
+  "name": "netninja-chat-project",
+  "version": "1.0.0",
+  "description": "nin ninja chat project",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --mode=development"
+  },
+  "devDependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "firebase": "^9.7.0"
+  }
+}
